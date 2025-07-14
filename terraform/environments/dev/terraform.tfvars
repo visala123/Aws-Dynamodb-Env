@@ -27,6 +27,6 @@ global_secondary_indexes = [
 ]
 
 tags = {
-  Name        = "dynamodb-table-1"
+  Name        = "dynamodb-table-dev"
   Environment = "dev"
 }
