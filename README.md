@@ -60,7 +60,7 @@ terraform/
 
 ##  Required Secrets in GitHub
 
-In your GitHub repo, go to **Settings → Environments → prod and dev->add Environment secrets** and add:
+In your GitHub repo, go to **Settings → Environments → prod and dev, dev-plan and prod-plan->add Environment secrets** and add:
 
 AWS_ACCESS_KEY_ID
 
